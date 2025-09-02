@@ -21,10 +21,7 @@ git clone https://github.com/Meghzz31/Tourism-Website.git
 
 Open the folder and run index.html in your browser
 
-Explore the site
 
-[🎥 Watch Demo Video]
-(https://github.com/Meghzz31/Tourism-Website/blob/main/assets/LIVE%20DEMO.mp4)
 
 
 📜 License
