@@ -22,6 +22,10 @@ git clone https://github.com/Meghzz31/Tourism-Website.git
 Open the folder and run index.html in your browser
 
 
+https://github.com/user-attachments/assets/ccbb92f6-0041-4d9a-ba2d-a97dac4723bd
+
+
+
 
 
 📜 License
